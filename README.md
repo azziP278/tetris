@@ -21,7 +21,7 @@ Play directly in your browser — no downloads or installs needed!
 
 ## How to Run
 
-Open `index.html` in any modern web browser or visit the live GitHub Pages site (if available):
+Open `index.html` (long press on mobile) in any modern web browser or visit the live GitHub Pages site (if available):
 
 
 
